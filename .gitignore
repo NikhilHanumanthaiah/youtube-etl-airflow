@@ -1,0 +1,12 @@
+# Ignore environment files
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+venv/
+logs
+
